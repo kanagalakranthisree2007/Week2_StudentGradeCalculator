@@ -1,0 +1,33 @@
+# Student Grade Calculator - Test Cases
+
+1. Valid Input (Grade B)
+Input: Name = Priya, Marks = 85
+Expected Output: Grade B
+Message: Very Good! Keep it up 👍
+
+2. Valid Input (Grade F)
+Input: Name = Ravi, Marks = 45
+Expected Output: Grade F
+Message: Work harder, success will come!
+
+3. Edge Case (Highest Marks)
+Input: Name = Anil, Marks = 100
+Expected Output: Grade A
+Message: Excellent! Keep shining 🌟
+
+4. Edge Case (Lowest Marks)
+Input: Name = Sita, Marks = 0
+Expected Output: Grade F
+Message: Work harder, success will come!
+
+5. Invalid Input (Negative Marks)
+Input: Name = Kumar, Marks = -5
+Expected Output: ❌ Invalid input. Please enter marks between 0–100.
+
+6. Invalid Input (Above 100)
+Input: Name = Meena, Marks = 105
+Expected Output: ❌ Invalid input. Please enter marks between 0–100.
+
+7. Non‑Numeric Input
+Input: Name = Raju, Marks = abc
+Expected Output: ❌ Invalid input. Please enter a number.
