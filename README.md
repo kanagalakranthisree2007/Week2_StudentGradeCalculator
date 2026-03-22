@@ -18,3 +18,7 @@ The program demonstrates:
 | 70–79       | C     | Good! You can do even better 💪 |
 | 60–69       | D     | Needs improvement, don’t give up! |
 | 0–59        | F     | Work harder, success will come! |
+## ⚙️ Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanagalakranthisree2007/Week2_StudentGradeCalculator.git
